@@ -1,0 +1,3 @@
+/home/suraj/Image Augmentation/Horizontal_Flip/Build/CMakeFiles/rebuild_cache.dir
+/home/suraj/Image Augmentation/Horizontal_Flip/Build/CMakeFiles/app.dir
+/home/suraj/Image Augmentation/Horizontal_Flip/Build/CMakeFiles/edit_cache.dir
