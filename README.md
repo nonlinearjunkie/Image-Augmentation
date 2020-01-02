@@ -1,2 +1,2 @@
-# Image-Alignments
-Image Alignment Using C++ in Naive approach
+# Image-Augmentation
+Image Augmentation Using C++ in Naive approach
