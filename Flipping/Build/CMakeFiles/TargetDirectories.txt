@@ -1,0 +1,3 @@
+/home/suraj/Project/Augmentation/Flipping/Vertical Flip/Build/CMakeFiles/rebuild_cache.dir
+/home/suraj/Project/Augmentation/Flipping/Vertical Flip/Build/CMakeFiles/Flipped.dir
+/home/suraj/Project/Augmentation/Flipping/Vertical Flip/Build/CMakeFiles/edit_cache.dir
